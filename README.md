@@ -1,12 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Erhan Yuksel Turgut</h1>
-<h3 align="center">A passionate developer from Türkiye</h3>
 
-- 🔭 I’m currently working on **Mobile App Development And AI/ML**
+- I’m currently working on **Mobile App Development And AI/ML**
 
-- 🌱 I’m currently learning **AI/ML**
+- I’m currently learning **AI/ML**
 
-- 📫 How to reach me **yt10089@gmail.com**
+- How to reach me **yt10089@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
