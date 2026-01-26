@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Erhan Yuksel Turgut</h1>
 
-- I’m currently working on **Mobile App Development And AI/ML**
+- I’m currently working on **AI/ML**
 
 - I’m currently learning **AI/ML**
 
