@@ -7,7 +7,7 @@
 
 - How to reach me **yt10089@gmail.com**
 
-- My Personel Website **https://www.erhanyukselturgut.com/**
+- My Personel Website **https://www.erhanyukselturgut.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
