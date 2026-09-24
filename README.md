@@ -1,7 +1,7 @@
 <h1 align="center">Erhan Yüksel Turgut</h1>
 
 <p align="center">
-  Bilgisayar mühendisi · Yapay zekâ ve makine öğrenmesi
+  Bilgisayar mühendisi · Yapay zeka ve makine öğrenmesi
 </p>
 
 <p align="center">
@@ -36,11 +36,7 @@ Depoların çoğunda sonuç raporu ve karar günlüğü (`PLAN.md`) bulunur.
 `Python` `C++` · `PyTorch` `TensorFlow` `Ultralytics` `Transformers` `Albumentations`
 `ONNX` `TensorRT` `CUDA` `Jetson` · `PostgreSQL` `Docker` `Linux` `Git` · `Flutter`
 
-### Takımlar ve programlar
 
-- **SAYZEK ATP** — Savunma Sanayii Başkanlığı, yapay zekâ yetenek kümelenmesi
-- **ATA AIT Simurg** — TEKNOFEST Savaşan İHA, finalist
-- **Yüksek Teknoloji Topluluğu** — yönetim kurulu üyesi
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yukseltt/Yukseltt/output/github-contribution-grid-snake-dark.svg">
